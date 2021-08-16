@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="97.949774">
+<testcase classname="Flujo Lentitud fija" name="Como usuario activo realizo el flujo de lentitud fija" time="97.949774">
+<system-out><![CDATA[Given No navega fija - Se carga web Visor e inicio sesion como administrador "1".passed
+When Busco el numero y selecciono opcion Avería "1".........................passed
+And Selecciono Problemas con internet "1"...................................passed
+And Selecciono Lentitud "1".................................................passed
+Then Verifico la información mostrada y doy click al botón en pantalla "1"..passed
+]]></system-out>
+</testcase>
+</testsuite>
